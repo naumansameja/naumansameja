@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nauman Ishaq</h1>
-<h3 align="center">A backend developer from India</h3>
+<h3 align="center">A backend developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **Django REST framework, React, PostgreSQL**
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about ** 🖥️ Programming Languages: Python, JavaScript, Java
+**
 
 - 📫 How to reach me **nauman.samejaa@gmail.com**
 
